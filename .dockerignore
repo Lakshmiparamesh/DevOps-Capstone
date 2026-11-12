@@ -1,0 +1,13 @@
+.git
+.gitignore
+node_modules
+*.md
+*.log
+.env
+*.pem
+terraform/
+screenshots/
+Jenkinsfile
+docker-compose.yml
+build.sh
+deploy.sh
